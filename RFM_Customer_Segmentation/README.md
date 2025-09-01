@@ -48,5 +48,6 @@ You can download it from [UCI Machine Learning Repository](https://archive.ics.u
 ## How to Run Locally  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Mominaaah/RFM_Analysis.git
+   git clone https://github.com/Mominaaah/RFM-Analysis.git
    cd RFM_Analysis
+
