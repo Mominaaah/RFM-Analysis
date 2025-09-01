@@ -37,17 +37,10 @@ You can download it from [UCI Machine Learning Repository](https://archive.ics.u
 ### 5. Customer Segment Pie Chart  
 ![Segment Pie](visuals/segment_pie.png)  
 
-### 6. Customer Segment Countplot  
-![Segment Count](visuals/segment_count.png)  
-
 ## Tech Stack  
 - **Python**: Pandas, NumPy  
 - **Visualization**: Matplotlib, Seaborn  
 - **Environment**: Jupyter Notebook  
 
-## How to Run Locally  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Mominaaah/RFM-Analysis.git
-   cd RFM_Analysis
+
 
